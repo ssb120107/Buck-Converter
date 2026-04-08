@@ -87,7 +87,7 @@ The converter circuit was assembled on:
 * Output measured using multimeter / oscilloscope
 
 
-## 📊 Results and Observations
+## Results and Observations
 
 * Output voltage remained stable at the desired level
 * Ripple voltage reduced using capacitor filter
