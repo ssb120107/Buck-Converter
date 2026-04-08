@@ -1,7 +1,7 @@
 # Buck-Converter
 # Buck Converter Project
 
-## 📌 Project Title
+## Project Title
 
 **Design and Implementation of a DC–DC Buck Converter**
 
@@ -57,7 +57,7 @@ Where:
 * **Vin** = Input Voltage
 * **D** = Duty Cycle (0 to 1)
 
-## 🧮 Design Specifications
+## Design Specifications
 
 (Modify these based on your project)
 
@@ -75,7 +75,7 @@ Where:
 
 The circuit was simulated using:
 
-* **MATLAB Simulink ** 
+* MATLAB Simulink 
 * PWM signal used for switching control
 * Output voltage and current waveforms were analyzed
 
